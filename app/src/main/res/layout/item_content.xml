@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apk.zeffect.cn.calligraphycopy.views.FontTextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/item_show_text_ftv"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/white"
+    android:padding="8dp"
+    android:singleLine="true"
+    android:textColor="#212121">
+
+</apk.zeffect.cn.calligraphycopy.views.FontTextView>
